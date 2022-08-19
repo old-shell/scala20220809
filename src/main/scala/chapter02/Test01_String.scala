@@ -1,4 +1,4 @@
-package chapter01
+package chapter02
 
 object Test01_String {
   def main(args: Array[String]): Unit = {
